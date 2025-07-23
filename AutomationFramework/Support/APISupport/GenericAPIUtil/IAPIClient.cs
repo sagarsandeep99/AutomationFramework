@@ -1,6 +1,6 @@
 ﻿using RestSharp;
 
-namespace Automation_Framework.APISupport.GenericAPIUtil
+namespace AutomationFramework.Support.APISupport.GenericAPIUtil
 {
     public interface IAPIClient
     {

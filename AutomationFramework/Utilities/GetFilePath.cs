@@ -1,7 +1,7 @@
 ﻿using System.Xml.Linq;
 using Dynamitey;
 
-namespace Automation_Framework.Utilities
+namespace AutomationFramework.Utilities
 {
     public class GetFilePath
     {

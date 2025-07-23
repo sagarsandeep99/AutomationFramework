@@ -1,7 +1,7 @@
-﻿using Automation_Framework.DataLibraries.DataVariables;
+﻿using AutomationFramework.DataLibraries.DataVariables;
 using System.Xml;
 
-namespace Automation_Framework.Utilities
+namespace AutomationFramework.Utilities
 {
     internal class XmlReader
     {

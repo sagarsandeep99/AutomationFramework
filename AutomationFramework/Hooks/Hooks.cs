@@ -1,9 +1,9 @@
-﻿using Automation_Framework.Drivers;
-using Automation_Framework.Utilities;
+﻿using AutomationFramework.Drivers;
+using AutomationFramework.Utilities;
 using AventStack.ExtentReports.Gherkin.Model;
 using OpenQA.Selenium;
 
-namespace Automation_Framework.Hooks
+namespace AutomationFramework.Hooks
 {
     [Binding]
     public sealed class Hooks : ExtentReport

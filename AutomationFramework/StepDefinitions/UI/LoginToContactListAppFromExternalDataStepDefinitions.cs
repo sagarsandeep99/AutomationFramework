@@ -1,12 +1,12 @@
-using Automation_Framework.ActionClasses;
-using Automation_Framework.DataLibraries.DataVariables;
-using Automation_Framework.Drivers;
-using Automation_Framework.PageObjectModel;
-using Automation_Framework.Utilities;
+using AutomationFramework.ActionClasses;
+using AutomationFramework.DataLibraries.DataVariables;
+using AutomationFramework.Drivers;
+using AutomationFramework.PageObjectModel;
+using AutomationFramework.Utilities;
 using ExecuteAutomation.Reqnroll.Dynamics;
 using OpenQA.Selenium;
 
-namespace Automation_Framework.StepDefinitions.UI
+namespace AutomationFramework.StepDefinitions.UI
 {
     [Binding]
     public class LoginToContactListAppFromExternalDataStepDefinitions

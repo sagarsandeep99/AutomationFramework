@@ -1,11 +1,12 @@
-using Automation_Framework.APISupport.GenericAPIUtil;
-using Automation_Framework.APISupport.Model.Request;
-using Automation_Framework.Utilities;
-using NUnit.Framework;
+using AutomationFramework.Support.APISupport;
+using AutomationFramework.Utilities;
 using System.Net;
 using RestSharp;
+using AutomationFramework.Support.APISupport.Model.Request;
+using AutomationFramework.Support.APISupport.Model.Response;
+using AutomationFramework.Support.APISupport.GenericAPIUtil;
 
-namespace Automation_Framework.StepDefinitions.API
+namespace AutomationFramework.StepDefinitions.API
 {
     [Binding]
     public class CreateUserStepDefinitions

@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using RestSharp;
 
-namespace Automation_Framework.Utilities
+namespace AutomationFramework.Support.APISupport
 {
     public class HandleAPIContent
     {

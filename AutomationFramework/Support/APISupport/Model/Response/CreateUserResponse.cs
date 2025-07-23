@@ -1,4 +1,4 @@
-﻿namespace Automation_Framework.APISupport.Model.Request
+﻿namespace AutomationFramework.Support.APISupport.Model.Response
 {
     public class CreateUserResponse
     {

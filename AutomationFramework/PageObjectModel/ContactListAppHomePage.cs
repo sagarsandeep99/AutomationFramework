@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Automation_Framework.ActionClasses;
+using AutomationFramework.ActionClasses;
 using OpenQA.Selenium;
 
-namespace Automation_Framework.PageObjectModel
+namespace AutomationFramework.PageObjectModel
 {
     internal class ContactListAppHomePage
     {

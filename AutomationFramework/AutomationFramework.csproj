@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Support\" />
     <Folder Include="TestReports\" />
   </ItemGroup>
 

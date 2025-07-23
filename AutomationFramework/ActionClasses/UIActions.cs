@@ -3,7 +3,7 @@ using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace Automation_Framework.ActionClasses
+namespace AutomationFramework.ActionClasses
 {
     class UIActions
     {

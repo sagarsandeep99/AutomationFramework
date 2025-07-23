@@ -1,14 +1,12 @@
 using System;
-using Automation_Framework.ActionClasses;
-using Automation_Framework.DataLibraries.DataVariables;
-using Automation_Framework.Drivers;
-using Automation_Framework.PageObjectModel;
+using AutomationFramework.ActionClasses;
+using AutomationFramework.DataLibraries.DataVariables;
+using AutomationFramework.Drivers;
+using AutomationFramework.PageObjectModel;
 using ExecuteAutomation.Reqnroll.Dynamics;
-using NUnit.Framework;
 using OpenQA.Selenium;
-using Reqnroll;
 
-namespace Automation_Framework.StepDefinitions.UI
+namespace AutomationFramework.StepDefinitions.UI
 {
     [Binding]
     public class LoginToGmailfromExternalDataStepDefinitions

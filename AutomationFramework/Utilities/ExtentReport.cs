@@ -1,7 +1,7 @@
 ﻿using AventStack.ExtentReports;
 using AventStack.ExtentReports.Reporter;
 
-namespace Automation_Framework.Utilities
+namespace AutomationFramework.Utilities
 {
     public class ExtentReport
     {

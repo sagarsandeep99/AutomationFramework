@@ -1,6 +1,6 @@
-﻿using Automation_Framework.DataLibraries.DataVariables;
+﻿using AutomationFramework.DataLibraries.DataVariables;
 
-namespace Automation_Framework.Utilities
+namespace AutomationFramework.Utilities
 {
     internal class CsvReader
     {

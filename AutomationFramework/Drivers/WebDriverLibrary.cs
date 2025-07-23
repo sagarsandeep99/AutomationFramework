@@ -5,7 +5,7 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Safari;
 
-namespace Automation_Framework.Drivers
+namespace AutomationFramework.Drivers
 {
     internal class WebDriverLibrary
     {

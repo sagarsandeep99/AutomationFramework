@@ -1,4 +1,4 @@
-﻿namespace Automation_Framework.DataLibraries.DataVariables
+﻿namespace AutomationFramework.DataLibraries.DataVariables
 {
     internal class StoreDataValuesToVariables
     {
